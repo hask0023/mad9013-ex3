@@ -62,7 +62,7 @@ overflow: hidden;
     
 }
 
-@media screen and (min-width: 600px) and (max-width: 1023px) {
+@media screen and (min-width: 601px) and (max-width: 1024px) {
     picture {
         width: 48%;
         margin: 0% 1% 1% 1%;
